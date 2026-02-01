@@ -1,13 +1,9 @@
 <div align="center">
 
-<!-- NAME -->
-<h1 style="letter-spacing:2px;">FURKAN AGCICEK</h1>
+<!-- BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2933,100:111827&height=140&section=header&text=FURKAN%20AGCICEK&fontSize=38&fontColor=ffffff&fontAlignY=55&descAlignY=75"/>
 
-<p style="margin-top:-8px; color:#6b7280; font-size:14px;">
-  Cyber Security · Web Security · Pentest
-</p>
-
-<br/>
+<br/><br/>
 
 <!-- LINKS -->
 <p align="center">
@@ -17,7 +13,7 @@
   <a href="https://github.com/furkanagcicek">
     <img src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=furkanagcicek&color=7c3aed&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=furkanagcicek&color=6366f1&style=flat"/>
 </p>
 
 <br/>
@@ -32,9 +28,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4ade80?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-64748b?style=flat&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MSSQL-ef4444?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-16a34a?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-475569?style=flat&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MSSQL-dc2626?style=flat&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 <br/>
