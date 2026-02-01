@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2933,100:111827&height=140&section=header&text=FURKAN%20AGCICEK&fontSize=38&fontColor=ffffff&fontAlignY=55&descAlignY=75"/>
+<!-- COLORFUL BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:818cf8,100:f472b6&height=160&section=header&text=FURKAN%20A%C4%9E%C3%87%C4%B0%C3%87EK&fontSize=40&fontColor=ffffff&fontAlignY=55"/>
 
 <br/><br/>
 
@@ -11,9 +11,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/furkanagcicek">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=flat&logo=github&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=furkanagcicek&color=6366f1&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=furkanagcicek&color=8b5cf6&style=flat"/>
 </p>
 
 <br/>
@@ -28,16 +28,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-16a34a?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-475569?style=flat&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MSSQL-dc2626?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-22c55e?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-64748b?style=flat&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MSSQL-ef4444?style=flat&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 <br/>
 
 <!-- MOST USED LANGUAGES -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanagcicek&layout=compact&langs_count=6&theme=graywhite&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanagcicek&layout=compact&langs_count=6&theme=default&hide_border=true"/>
 </p>
 
 </div>
