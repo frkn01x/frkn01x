@@ -1,49 +1,69 @@
 <div align="center">
 
-<!-- RAINBOW NEON BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:ff0080,25:ff8c00,50:40e0d0,75:8a2be2,100:00ffcc&height=170&section=header&text=FURKAN%20A%C4%9E%C3%87%C4%B0%C3%87EK&fontSize=42&fontColor=ffffff&fontAlignY=55"/>
+<!-- CLEAN NAME HEADER -->
+<h1 style="letter-spacing:3px; font-weight:700;">
+  FURKAN AĞÇİÇEK
+</h1>
+
+<hr style="width:120px; border:1px solid #6366f1; margin-top:-10px;"/>
+
+<br/>
+
+<!-- SOCIAL -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/furkan-agcicek-199b03355/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/furkanagcicek">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=furkanagcicek&style=for-the-badge&color=6366f1"/>
+</p>
 
 <br/><br/>
 
-<!-- SOCIAL BUTTONS -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/furkan-agcicek-199b03355/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gradient?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2"/>
-  </a>
-  <a href="https://github.com/furkanagcicek">
-    <img src="https://img.shields.io/badge/GitHub-Gradient?style=for-the-badge&logo=github&logoColor=white&color=24292F"/>
-  </a>
-</p>
+<!-- SKILLS TITLE -->
+<h3>⚡ Skills & Tools</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=furkanagcicek&style=for-the-badge&color=ff69b4"/>
-</p>
+<!-- SKILLS CARD -->
+<table align="center">
+<tr>
+<td align="center" style="padding:15px; border-radius:10px; background:#f8fafc;">
 
-<br/>
+<strong>Languages</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
 
-<!-- COLOR ICON STACK -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=light" />
-</p>
+</td>
+<td width="20"></td>
+<td align="center" style="padding:15px; border-radius:10px; background:#f8fafc;">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,docker,git,github,vscode&theme=light" />
-</p>
+<strong>Tools</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=flask,nodejs,docker,git,github,vscode"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- DATABASE STRIP -->
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-%2300ED64.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MSSQL-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
+<!-- DATABASES CARD -->
+<table align="center">
+<tr>
+<td align="center" style="padding:14px 20px; border-radius:12px; background:#f1f5f9;">
+  <img src="https://img.shields.io/badge/MongoDB-22c55e?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-64748b?style=flat&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MSSQL-ef4444?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+</td>
+</tr>
+</table>
 
-<br/>
+<br/><br/>
 
-<!-- MOST USED LANGUAGES - COLORFUL -->
+<!-- MOST USED LANGUAGES -->
+<h3>📊 Most Used Languages</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanagcicek&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanagcicek&layout=compact&langs_count=6&theme=default&hide_border=true"/>
 </p>
 
 </div>
