@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ANIMATED NAME BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c1c3,50:7f7fd5,100:86fde8&height=150&section=header&text=FURKAN%20A%C4%9E%C3%87%C4%B0%C3%87EK&fontSize=38&fontColor=ffffff&fontAlignY=55"/>
+<!-- NAME BANNER (DAHA SAKİN & PREMIUM) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:22d3ee&height=150&section=header&text=FURKAN%20A%C4%9E%C3%87%C4%B0%C3%87EK&fontSize=40&fontColor=ffffff&fontAlignY=55"/>
 
 <br/><br/>
 
@@ -11,45 +11,44 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/frkn01x">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=frkn01x&color=6366f1&style=flat"/>
 </p>
 
 <br/><br/>
 
-<!-- LANGUAGES BLOCK -->
-<div style="padding:14px 20px; border-radius:14px; background:#f8fafc; display:inline-block;">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css"/>
+<!-- LANGUAGES -->
+<div style="padding:16px 22px; border-radius:16px; background:#f8fafc; display:inline-block;">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css&perline=4"/>
 </div>
 
 <br/><br/>
 
-<!-- TOOLS BLOCK -->
-<div style="padding:14px 20px; border-radius:14px; background:#f1f5f9; display:inline-block;">
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,docker,git,github,vscode"/>
+<!-- TOOLS -->
+<div style="padding:16px 22px; border-radius:16px; background:#f1f5f9; display:inline-block;">
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,docker,git,github,vscode&perline=6"/>
 </div>
 
 <br/><br/>
 
-<!-- DATABASES BLOCK -->
-<div style="padding:14px 20px; border-radius:14px; background:#eef2ff; display:inline-block;">
-  <img src="https://img.shields.io/badge/MongoDB-22c55e?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-64748b?style=flat&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MSSQL-ef4444?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+<!-- DATABASES -->
+<div style="padding:16px 22px; border-radius:16px; background:#eef2ff; display:inline-block;">
+  <img src="https://img.shields.io/badge/MongoDB-16a34a?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-475569?style=flat&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MSSQL-dc2626?style=flat&logo=microsoftsqlserver&logoColor=white"/>
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
-<!-- MOST USED LANGUAGES -->
+<!-- PROFILE + LANG GRAPHS -->
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frkn01x&theme=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frkn01x&theme=tokyonight" width="95%"/>
+</p>
 
-
-
-
-
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=frkn01x&theme=tokyonight" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frkn01x&theme=tokyonight" width="45%"/>
 </p>
 
 </div>
