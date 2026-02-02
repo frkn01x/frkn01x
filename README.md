@@ -43,7 +43,8 @@
 
 <!-- MOST USED LANGUAGES -->
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frkn01x&layout=compact&hide_border=true&hide=css,html" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frkn01x&theme=github"/>
+
 
 </p>
 
