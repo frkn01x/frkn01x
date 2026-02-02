@@ -41,15 +41,15 @@
 
 <br/><br/><br/>
 
-<!-- PROFILE + LANG GRAPHS -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frkn01x&theme=tokyonight" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=frkn01x&theme=tokyonight" width="45%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frkn01x&theme=tokyonight" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=frkn01x&theme=tokyonight" width="45%"/>
 </p>
+
 
 
 </div>
